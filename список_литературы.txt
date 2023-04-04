@@ -1,0 +1,35 @@
+Hands-on scikit-learn
+https://substantial.com/insights/creating-steamml-predicting-game-success
+https://brendanhasz.github.io/2019/03/04/target-encoding.html
+https://adalabucsd.github.io/papers/TR_2022_CategDedup.pdf
+https://neptune.ai/blog/evaluation-metrics-binary-classification
+https://substantial.com/insights/creating-steamml-predicting-game-success
+https://techjury.net/blog/gaming-industry-worth/
+https://financesonline.com/steam-statistics/
+https://in.ign.com/absolver/164976/feature/turns-out-the-hardest-part-of-making-a-game-iseverything
+https://chandlerzuo.github.io/blog/2015/03/weightedglm
+https://contrib.scikit-learn.org/category_encoders/
+https://github.com/vsmolyakov/experiments_with_python/blob/master/chp01/imbalanced_data.ipynb
+https://datascience.stackexchange.com/questions/105089/how-f1-score-is-good-with-unbalanced-dataset
+https://vitalflux.com/micro-average-macro-average-scoring-metrics-multi-class-classification-python/
+https://www.atmosera.com/blog/binary-classification-with-neural-networks/
+https://imbalanced-learn.org/stable/index.html
+file:///C:/Users/lbane/Downloads/VCOS_A_Novel_Synergistic_Oversampling_Algorithm_in%20(1).pdf
+https://imbalanced-learn.org/stable/over_sampling.html#smote-variants
+https://towardsdatascience.com/top-10-binary-classification-algorithms-a-beginners-guide-feeacbd7a3e2
+https://www.statology.org/f1-score-vs-accuracy/
+https://towardsdatascience.com/weighted-logistic-regression-for-imbalanced-dataset-9a5cd88e68b
+https://johdev.com/jupyter/2020/02/26/Decision_Tree_Imbalance.html#Decision-Trees-for-Imbalanced-Classification
+https://www.geeksforgeeks.org/complement-naive-bayes-cnb-algorithm/
+https://learn.g2.com/logistic-regression#:~:text=Logistic%20regression%20works%20by%20measuring,Key%20terms%20in%20logistic%20regression
+https://en.wikipedia.org/wiki/Decision_tree
+
+Weighted logistic regression
+Decision tree, random forest
+K-nearest
+Naive bayes gaussian
+SVM
+
+Catboost
+
+return tag only duplicates
